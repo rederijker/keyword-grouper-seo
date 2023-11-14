@@ -51,7 +51,7 @@ The detailed steps of the keyword grouping algorithm are as follows:
 - **Result Display and Visualization**: The algorithm presents sorted keyword groups and visualizations of their performance in an interactive and user-friendly interface.
 
 ## App Demo
-Experience the app live and start optimizing your keyword strategy: [Keyword Grouper App Demo](https://keyword-grouper.streamlit.app/).
+Experience the app live and start optimizing your keyword strategy: [Keyword Grouper App Demo](https://keyword-grouper-seo.streamlit.app/).
 
 ## Conclusion
 Maximize the potential of your keyword data with the Keyword Grouper SEO App. It's more than just a tool; it's an essential asset in your SEO and content marketing arsenal, enabling you to make data-driven decisions for better search visibility and engagement. Your feedback and suggestions are always welcome to improve future versions of the app. Happy keyword grouping!
